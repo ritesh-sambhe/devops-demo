@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Scalable Serverless Web Backend for Cleaning Supplies E-commerce Platform
 
 Actions performed to address Scalable Serverless Web Backend for Cleaning Supplies E-commerce Platform
@@ -27,3 +28,7 @@ Provided comprehensive documentation and training to ensure the client's team co
 ![EDA-Result-17](https://github.com/ritesh-sambhe/MyHandsOnProjects/assets/144586067/ad20337b-5757-40ac-b3ea-34985df325a2)
 ![EDA-Result-18](https://github.com/ritesh-sambhe/MyHandsOnProjects/assets/144586067/225b768a-94c6-49c3-98b7-66bc6fc56074)
 ![EDA-Result-19](https://github.com/ritesh-sambhe/MyHandsOnProjects/assets/144586067/c5905d62-9211-43c4-a5cc-b9c29345f84d)
+=======
+# devops-demo
+Devops Demo Repository
+>>>>>>> e8e1554d095c8bd921e7f50b590668e551593141
